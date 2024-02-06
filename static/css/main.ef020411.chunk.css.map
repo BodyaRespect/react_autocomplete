@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss","webpack://src/components/Autocomplete/Autocomplete.scss"],"names":[],"mappings":"AAAA,OACE,YAAA,CAGF,uBACE,wBAAA,CCLF,eACE,cAAA","file":"main.ef020411.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.dropdown-item.hovered {\n  background-color: #ffcece;\n}\n",".dropdown-item {\n  cursor: pointer;\n}\n"]}
